@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+  I am a software engineer currently working with critical web systems that 
+  authenticate users. My main interests are distributed systems and 
+  machine learning.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+  The personal projects I'm most proud of are the following, which you can find on my github:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+  - A* algorithm to find the minimum path to solve the 8-puzzle problem: [A* 8-Puzzle](https://github.com/adilsitos/Astar-Algorithm-) 
+  - A semantic search that recommends books according to a given description: [Amazon Semantic Search](https://github.com/adilsitos/Semantic-Search-Amazon-Data) 
 
-
-[jekyll-organization]: https://github.com/jekyll
